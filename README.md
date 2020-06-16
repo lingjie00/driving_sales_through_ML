@@ -13,7 +13,8 @@ We are interested in maximising the potential user growth while minimising cost.
 
 We will be solving this problem using a neural network model.
 
-Dataset taken from: https://www.kaggle.com/faressayah/audiobook-app-data Singapore’s projected digital spending in 2020: https://www.statista.com/outlook/216/124/digitaladvertising/singapore#market-revenue
+Dataset taken from: https://www.kaggle.com/faressayah/audiobook-app-data \
+Singapore’s projected digital spending in 2020: https://www.statista.com/outlook/216/124/digitaladvertising/singapore#market-revenue
 
-For report: Driving sales through Machine Learning.pdf
+For report: Driving sales through Machine Learning.pdf\
 For code: Driving sales through Machine Learning.py
